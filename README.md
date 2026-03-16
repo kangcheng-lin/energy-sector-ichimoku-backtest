@@ -1,6 +1,6 @@
 # Energy Sector Ichimoku Strategy Backtest
 
-This project evaluates an Ichimoku Cloud trading strategy applied to major US energy stocks and compares its performance against standard benchmarks.
+This project evaluates an Ichimoku Cloud trading strategy applied to major US energy stocks and compares its performance against standard benchmarks, inspired by https://www.quantconnect.com/research/9031/ichimoku-clouds-in-the-energy-sector/p1
 
 ## Assets
 
